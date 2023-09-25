@@ -1,6 +1,7 @@
 # weather-app
 
 ## Description
+A weather dashboard that provides the current temperature, wind and humidity of a user inputed city. Additionally, there is a 5-day forecast with the same three attributes. 
 
 ## Installation 
 N/A
